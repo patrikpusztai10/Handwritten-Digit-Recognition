@@ -4,13 +4,6 @@
 This project demonstrates how to build a neural network to recognize handwritten digits with high accuracy using the MNIST dataset.
 ---
 
-## 📁 Project Structure
-
-- `Digits/` – Directory containing test digit images for prediction
-- `model/` – Trained neural network model
-- `main.py` – Main script for training, evaluating, and predicting digits
-
-
 ## 🧰 Requirements
 
 - Python 3.8+
